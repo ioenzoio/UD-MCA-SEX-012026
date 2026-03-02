@@ -1,0 +1,7 @@
+Nome: Enzo Yukio Yoshida
+RA: 8261105032
+Curso: Ciência da Computação
+Semestre: 3º
+Bairro: Vila Carrão
+Se trabalha: Não trabalho
+Objetivo: Atuar como desenvolvedor backend
