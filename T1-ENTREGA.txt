@@ -1,0 +1,8 @@
+ATIVIDADE 1 - T1
+
+Nome Completo: Enzo Yukio Yoshida
+Repositório: https://github.com/ioenzoio/UD-MCA-SEX-012026
+
+--- GIT LOG ---
+* bd35dee (HEAD -> main, origin/main, origin/HEAD) Adicionar dados de Enzo Yukio Yoshida
+* 0c9f41d Initial commit
