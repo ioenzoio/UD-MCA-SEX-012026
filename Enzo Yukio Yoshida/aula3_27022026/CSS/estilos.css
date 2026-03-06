@@ -1,0 +1,122 @@
+body {
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            color: white;
+            font-style: italic;
+        }body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #531f81;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #0c0d10;
+        }
+        h3 {
+            color: #000000;
+            font-size: 15px;
+        }
+     
+
+        ul {
+            background-color: white;
+            padding: 15px; 
+            margin: 0 auto;  min-width: 750px;text-align: justify;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+		
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #1a1e21;
+    flex-direction: row;
+    justify-content: space-around;
+}
+nav li {
+color :#b8b8b8;
+font-size: 15px;
+ display: inline-block;
+    padding: 10px ;
+    text-decoration: none;
+}
+nav > a {
+    text-decoration: none;
+    color: #747474;
+    font-weight: 800;
+    font-size: 35px;
+    font-family: serif;
+    font-style: italic;
+}
+
+nav a:visited {
+    color: rgb(207, 207, 207);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+nav ul a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 100%;
+    text-decoration: none;
+}
+.fotos {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            padding: 20px;
+            background-color: white;
+            max-width: 750px;
+            margin: 20px auto;
+        }
+
+
+/*contato*/ 
+.conteudo_contato {  
+    width: 1310px;
+    height: 540px;
+    background-color:white;
+    color: black;
+    margin: 0 auto;
+    min-height: 500px;
+    min-width: 750px;
+    text-align: justify;
+}
+.texto {
+    width: 680px;
+    align-items: center;
+    max-width: 1000px;
+    height: 1%;
+    text-align: justify;
+    font-size: 19px; 
+}
+.foto {
+    padding: 15px;
+    height: 100px
+}
+.contato {
+    display: flex; 
+    align-items: center;
+     justify-content: space-around; 
+     padding: 20px;
+    }
